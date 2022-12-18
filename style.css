@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: linear-gradient(to right, #0f0c29,#302b63,#24243e);
+}
+
+
+.main_head{
+    display: flex;
+    font-size: 40px;
+    margin-left: 700px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid white;
+    width: 470px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.cal{
+    margin-left: 25px;
+}
+
+.sub-div{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.116);
+    width: 700px;
+    padding: 50px;
+    margin-left: 550px;
+    border: 2px solid white;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.common{
+    /* margin-bottom: 30px; */
+    font-size: 45px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+
+    
+}
+
+.commonInput{
+    margin-bottom: 30px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.foot{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.foot button{
+    width: 150px;
+    border: none;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 700;
+    background-color: rgb(100, 175, 100);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.foot button:hover{
+    cursor: pointer;
+    background-color: white;
+    color:  rgb(100, 175, 100);
+}
+
+.last{
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+    /* margin-left: 100px; */
+    text-align: center;
+
+}
+
+.footCom{
+    margin-bottom: 20px;
+}
