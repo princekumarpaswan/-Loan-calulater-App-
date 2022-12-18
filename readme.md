@@ -4,7 +4,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Loan-calulater-App](https://theme-changer-p.netlify.app/)
+## [Link to the Loan-calulater-App](https://loan-calulater-app.netlify.app/)
 
 
 ![Completed Website](./l1.png)
